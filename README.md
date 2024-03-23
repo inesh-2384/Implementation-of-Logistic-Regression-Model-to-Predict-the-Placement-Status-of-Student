@@ -84,26 +84,26 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ```
 
 ## Output:
-##Placement Data:
+## Placement Data:
 ![image](https://github.com/inesh-2384/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/146412203/b558225b-03f1-4eb2-a1d7-dc84aace4c50)
-##Salary Data:
+## Salary Data:
 ![image](https://github.com/inesh-2384/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/146412203/b85a2e85-dda0-408c-b11c-29760faad93b)
-##Checking the null() function:
+## Checking the null() function:
 ![image](https://github.com/inesh-2384/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/146412203/99731719-574f-4a93-8c51-41c46aeafe11)
-##Data Duplicate:
+## Data Duplicate:
 ![image](https://github.com/inesh-2384/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/146412203/80acb648-b5a1-4467-ad1d-215a47e88e0c)
-##Print Data:
+## Print Data:
 ![image](https://github.com/inesh-2384/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/146412203/1f628a39-227c-4806-a7dd-5e242e67894c)
-##Data-Status:
+## Data-Status:
 ![image](https://github.com/inesh-2384/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/146412203/f1726097-9913-48d2-a79c-89844af2f7c6)
-##Y_prediction array:
+## Y_prediction array:
 ![image](https://github.com/inesh-2384/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/146412203/694fdfb2-920a-4f1e-9ffa-724af4e7b160)
-##Accuracy value:
+## Accuracy value:
 ![image](https://github.com/inesh-2384/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/146412203/cd3171f6-ac2c-4a79-8b74-b94579e71bbf)
-##Confusion array:
+## Confusion array:
 ![image](https://github.com/inesh-2384/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/146412203/66773064-d0c9-424d-acc3-1b8807ff23f6)
-##Classification Report:
-##Prediction of LR:
+## Classification Report:
+## Prediction of LR:
 ![image](https://github.com/inesh-2384/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/146412203/ddea14c9-cdb6-4336-a97e-b9528a444a5f)
 
 ## Result:
